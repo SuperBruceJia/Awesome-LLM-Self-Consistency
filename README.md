@@ -14,10 +14,10 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
 - [Resources](#Resources)
 - [Presentations](#Presentations)
 - [Benchmarks](#Benchmarks)
-      - [Semantic Consistency](#Semantic-Consistency)
-      - [Logical Consistency](#Logical-Consistency)
-      - [Factual Consistency](#Factual-Consistency)
-      - [Hypothetical and Compositional Consistency](#Hypothetical-and-Compositional-Consistency)
+  - [Semantic Consistency](#Semantic-Consistency)
+  - [Logical Consistency](#Logical-Consistency)
+  - [Factual Consistency](#Factual-Consistency)
+  - [Hypothetical and Compositional Consistency](#Hypothetical-and-Compositional-Consistency)
 - [Papers](#Papers)
       
 # Resources
