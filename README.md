@@ -43,8 +43,15 @@ COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub]
 12 Oct 2022
 
 ## Factual Consistency
+**Measuring and Improving Consistency in Pretrained Language Models** \
+*Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard Hovy, Hinrich Schütze, Yoav Goldberg* \
+TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]
+29 May 2021
 
 ## Hypothetical and Compositional Consistency
-
+**Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs** \
+*Chen, Angelica and Phang, Jason and Parrish, Alicia and Padmakumar, Vishakh and Zhao, Chen and Bowman, Samuel R, Cho, Kyunghyun* \
+arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]
+2 Oct 2023
 
 # Papers
