@@ -33,29 +33,29 @@ Sept 2023
 ## Semantic Consistency
 **BECEL: Benchmark for Consistency Evaluation of Language Models** \
 *Myeongjun Jang, Deuk Sin Kwon, Thomas Lukasiewicz* \
-COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub](https://github.com/MJ-Jang/BECEL)]
+COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub](https://github.com/MJ-Jang/BECEL)]\
 12 Oct 2022
 
 ## Logical Consistency
 **BECEL: Benchmark for Consistency Evaluation of Language Models** \
 *Myeongjun Jang, Deuk Sin Kwon, Thomas Lukasiewicz* \
-COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub](https://github.com/MJ-Jang/BECEL)]
+COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub](https://github.com/MJ-Jang/BECEL)]\
 12 Oct 2022
 
 ## Factual Consistency
 **ParaRel:metal:: Measuring and Improving Consistency in Pretrained Language Models** \
 *Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard Hovy, Hinrich Schütze, Yoav Goldberg* \
-TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]
+TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]\
 29 May 2021
 
 ## Hypothetical and Compositional Consistency
 **Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs** \
 *Chen, Angelica and Phang, Jason and Parrish, Alicia and Padmakumar, Vishakh and Zhao, Chen and Bowman, Samuel R, Cho, Kyunghyun* \
-arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]
+arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
 2 Oct 2023
 
 # Papers
 **Self-Consistency Improves Chain of Thought Reasoning in Language Models** \
 *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou* \
-ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]
+ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
 7 Mar 2023
