@@ -14,17 +14,37 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
 - [Resources](#Resources)
 - [Presentations](#Presentations)
 - [Benchmarks](#Benchmarks)
+      - [Semantic Consistency](#Semantic-Consistency)
+      - [Logical Consistency](#Logical-Consistency)
+      - [Factual Consistency](#Factual-Consistency)
+      - [Hypothetical and Compositional Consistency](#Hypothetical-and-Compositional-Consistency)
 - [Papers](#Papers)
       
 # Resources
 
 # Presentations 
-
 **Teach Language Models to Reason** \
 *Denny Zhou, Google DeepMind* \
 [[Link](https://dennyzhou.github.io/LLMs-Reason-2023-Harvard-Yale.pdf)] \
-Sept 2023 
+Sept 2023
 
 # Benchmarks
+
+## Semantic Consistency
+**BECEL: Benchmark for Consistency Evaluation of Language Models** \
+*Myeongjun Jang, Deuk Sin Kwon, Thomas Lukasiewicz* \
+COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub](https://github.com/MJ-Jang/BECEL)]
+12 Oct 2022
+
+## Logical Consistency
+**BECEL: Benchmark for Consistency Evaluation of Language Models** \
+*Myeongjun Jang, Deuk Sin Kwon, Thomas Lukasiewicz* \
+COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub](https://github.com/MJ-Jang/BECEL)]
+12 Oct 2022
+
+## Factual Consistency
+
+## Hypothetical and Compositional Consistency
+
 
 # Papers
