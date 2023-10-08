@@ -43,7 +43,7 @@ COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub]
 12 Oct 2022
 
 ## Factual Consistency
-**Measuring and Improving Consistency in Pretrained Language Models** \
+**ParaRel:metal:: Measuring and Improving Consistency in Pretrained Language Models** \
 *Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard Hovy, Hinrich Schütze, Yoav Goldberg* \
 TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]
 29 May 2021
