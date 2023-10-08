@@ -10,3 +10,16 @@ This repository, called **Self-Consistency-LLMs** contains a collection of resou
 
 *Welcome to share your papers, thoughts, and ideas in this area!* 
 
+## Contents
+- [Resources](#Resources)
+- [Presentations](#Presentations)
+- [Benchmarks](#Benchmarks)
+- [Papers](#Papers)
+      
+# Resources
+
+# Presentations 
+
+# Benchmarks
+
+# Papers
