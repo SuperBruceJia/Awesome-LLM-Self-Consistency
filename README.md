@@ -20,6 +20,11 @@ This repository, called **Self-Consistency-LLMs** contains a collection of resou
 
 # Presentations 
 
+**Teach Language Models to Reason** \
+*Denny Zhou, Google DeepMind* \
+[[Link](https://dennyzhou.github.io/LLMs-Reason-2023-Harvard-Yale.pdf)] \
+Sept 2023 
+
 # Benchmarks
 
 # Papers
