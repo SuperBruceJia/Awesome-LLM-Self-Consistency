@@ -1,7 +1,6 @@
 # Awesome-LLM-Self-Consistency
 Awesome-LLM-Self-Consistency: A Curated List of Self-consistency in Large Language Models
 
-\
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)
@@ -11,7 +10,6 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
 *Welcome to share your papers, thoughts, and ideas in this area!* 
 
 ## Contents
-- [Resources](#Resources)
 - [Presentations](#Presentations)
 - [Benchmarks](#Benchmarks)
   - [Semantic Consistency](#Semantic-Consistency)
@@ -19,8 +17,6 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
   - [Factual Consistency](#Factual-Consistency)
   - [Hypothetical and Compositional Consistency](#Hypothetical-and-Compositional-Consistency)
 - [Papers](#Papers)
-      
-# Resources
 
 # Presentations 
 **Teach Language Models to Reason** \
@@ -59,3 +55,8 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
 *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou* \
 ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
 7 Mar 2023
+
+**Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs** \
+*Pranjal Aggarwal, Aman Madaan, Yiming Yang, Mausam* \
+arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.11860.pdf)] [[Website](http://sample-step-by-step.info/)] [[GitHub](https://github.com/Pranjal2041/AdaptiveConsistency)]\
+19 May 2023
