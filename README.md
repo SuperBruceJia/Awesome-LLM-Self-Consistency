@@ -55,3 +55,7 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]
 2 Oct 2023
 
 # Papers
+**Self-Consistency Improves Chain of Thought Reasoning in Language Models** \
+*Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou* \
+ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]
+7 Mar 2023
