@@ -50,7 +50,7 @@ TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](http
 
 ## Hypothetical and Compositional Consistency
 **Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs** \
-*Chen, Angelica and Phang, Jason and Parrish, Alicia and Padmakumar, Vishakh and Zhao, Chen and Bowman, Samuel R, Cho, Kyunghyun* \
+*Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho* \
 arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
 2 Oct 2023
 
