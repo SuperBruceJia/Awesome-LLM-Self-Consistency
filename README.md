@@ -30,6 +30,11 @@ Sept 2023
 COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub](https://github.com/MJ-Jang/BECEL)]\
 12 Oct 2022
 
+**Improving the Robustness of Question Answering Systems to Question Paraphrasing** \
+*Wee Chung Gan, Hwee Tou Ng* \
+ACL 2019, [[Paper](https://aclanthology.org/P19-1610.pdf)] [[GitHub](https://github.com/nusnlp/paraphrasing-squad)]\
+28 July 2019
+
 ## Logical Consistency
 ### Negational, Symmetric, Transitive, and Additive Consistency
 **BECEL: Benchmark for Consistency Evaluation of Language Models** \
@@ -44,23 +49,23 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
 2 Oct 2023
 
 ## Factual Consistency
-**ParaRel:metal:: Measuring and Improving Consistency in Pretrained Language Models** \
-*Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard Hovy, Hinrich Schütze, Yoav Goldberg* \
-TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]\
-29 May 2021
-
 **mParaRel: Factual Consistency of Multilingual Pretrained Language Models** \
 *Constanza Fierro, Anders Søgaard* \
 ACL 2022, [[Paper](https://aclanthology.org/2022.findings-acl.240.pdf)] [[GitHub](https://github.com/coastalcph/mpararel)]\
 22 Mar 2022
 
-# Papers
-**Self-Consistency Improves Chain of Thought Reasoning in Language Models** \
-*Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou* \
-ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
-7 Mar 2023
+**ParaRel:metal:: Measuring and Improving Consistency in Pretrained Language Models** \
+*Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard Hovy, Hinrich Schütze, Yoav Goldberg* \
+TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]\
+29 May 2021
 
+# Papers
 **Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs** \
 *Pranjal Aggarwal, Aman Madaan, Yiming Yang, Mausam* \
 arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.11860.pdf)] [[Website](http://sample-step-by-step.info/)] [[GitHub](https://github.com/Pranjal2041/AdaptiveConsistency)]\
 19 May 2023
+
+**Self-Consistency Improves Chain of Thought Reasoning in Language Models** \
+*Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou* \
+ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
+7 Mar 2023
