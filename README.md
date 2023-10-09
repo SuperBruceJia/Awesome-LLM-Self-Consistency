@@ -15,7 +15,8 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
   - [Semantic Consistency](#Semantic-Consistency)
   - [Logical Consistency](#Logical-Consistency)
   - [Factual Consistency](#Factual-Consistency)
-  - [Hypothetical and Compositional Consistency](#Hypothetical-and-Compositional-Consistency)
+  - [Hypothetical Consistency](#Hypothetical-Consistency)
+  - [Compositional Consistency](#Compositional-Consistency)
 - [Papers](#Papers)
 
 # Presentations 
@@ -43,7 +44,13 @@ COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub]
 TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]\
 29 May 2021
 
-## Hypothetical and Compositional Consistency
+## Hypothetical Consistency
+**Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs** \
+*Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho* \
+arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
+2 Oct 2023
+
+## Compositional Consistency
 **Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs** \
 *Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho* \
 arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
