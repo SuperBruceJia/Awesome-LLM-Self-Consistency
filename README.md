@@ -44,6 +44,11 @@ COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub]
 TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]\
 29 May 2021
 
+**Factual Consistency of Multilingual Pretrained Language Models** \
+*Constanza Fierro, Anders Søgaard* \
+ACL 2022, [[Paper](https://aclanthology.org/2022.findings-acl.240.pdf)] [[GitHub](https://github.com/coastalcph/mpararel)]\
+22 Mar 2022
+
 ## Hypothetical Consistency
 **Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs** \
 *Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho* \
