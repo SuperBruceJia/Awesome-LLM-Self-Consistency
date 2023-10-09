@@ -49,7 +49,7 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
 TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]\
 29 May 2021
 
-**Factual Consistency of Multilingual Pretrained Language Models** \
+**mParaRel: Factual Consistency of Multilingual Pretrained Language Models** \
 *Constanza Fierro, Anders Søgaard* \
 ACL 2022, [[Paper](https://aclanthology.org/2022.findings-acl.240.pdf)] [[GitHub](https://github.com/coastalcph/mpararel)]\
 22 Mar 2022
