@@ -7,7 +7,7 @@ Awesome-LLM-Self-Consistency: A Curated List of Self-consistency in Large Langua
 
 This repository, called **Self-Consistency-LLMs**, contains a collection of resources and papers on **Self-Consistency** in **Large Language Models**. 
 
-*Welcome to share your papers, thoughts, and ideas in this area!* 
+*Welcome to share your papers, thoughts, and ideas by [submitting an issue](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency/issues/new)!* 
 
 ## Contents
 - [Presentations](#Presentations)
@@ -25,7 +25,6 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
 Sept 2023
 
 # Benchmarks
-
 ## Semantic Consistency
 **BECEL: Benchmark for Consistency Evaluation of Language Models** \
 *Myeongjun Jang, Deuk Sin Kwon, Thomas Lukasiewicz* \
