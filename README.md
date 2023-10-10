@@ -17,9 +17,9 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
   - [Factual Consistency](#Factual-Consistency)
 - [Papers](#Papers)
   - [Reasoning](#Reasoning)
-  - [Semantic Consistency](#Semantic-Consistency)
-  - [Logical Consistency](#Logical-Consistency)
-  - [Factual Consistency](#Factual-Consistency)
+  - [Semantics](#Semantics)
+  - [Logicality](#Logicality)
+  - [Factuality](#Factuality)
 
 # Presentations 
 **Teach Language Models to Reason** \
@@ -75,13 +75,13 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.11860.pdf)] [[Website](ht
 ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
 7 Mar 2023
 
-## Semantic Consistency
+## Semantics
 
 
-## Logical Consistency
+## Logicality
 
 
-## Factual Consistency
+## Factuality
 **P-Adapters: Robustly Extracting Factual Information from Language Models with Diverse Prompts** \
 *Benjamin Newman, Prafulla Kumar Choubey, Nazneen Rajani* \
 ICLR 2022, [[Paper](https://openreview.net/pdf?id=DhzIU48OcZh)] [[GitHub](https://github.com/salesforce/FactLM)]\
