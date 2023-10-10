@@ -16,6 +16,10 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
   - [Logical Consistency](#Logical-Consistency)
   - [Factual Consistency](#Factual-Consistency)
 - [Papers](#Papers)
+  - [Reasoning](#Reasoning)
+  - [Semantic Consistency](#Semantic-Consistency)
+  - [Logical Consistency](#Logical-Consistency)
+  - [Factual Consistency](#Factual-Consistency)
 
 # Presentations 
 **Teach Language Models to Reason** \
@@ -60,6 +64,7 @@ TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](http
 29 May 2021
 
 # Papers
+## Reasoning
 **Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs** \
 *Pranjal Aggarwal, Aman Madaan, Yiming Yang, Mausam* \
 arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.11860.pdf)] [[Website](http://sample-step-by-step.info/)] [[GitHub](https://github.com/Pranjal2041/AdaptiveConsistency)]\
@@ -69,3 +74,15 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.11860.pdf)] [[Website](ht
 *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou* \
 ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
 7 Mar 2023
+
+## Semantic Consistency
+
+
+## Logical Consistency
+
+
+## Factual Consistency
+**P-Adapters: Robustly Extracting Factual Information from Language Models with Diverse Prompts** \
+*Benjamin Newman, Prafulla Kumar Choubey, Nazneen Rajani* \
+ICLR 2022, [[Paper](https://openreview.net/pdf?id=DhzIU48OcZh)] [[GitHub](https://github.com/salesforce/FactLM)]\
+19 Apr 2022
