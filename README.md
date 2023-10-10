@@ -86,3 +86,8 @@ ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
 *Benjamin Newman, Prafulla Kumar Choubey, Nazneen Rajani* \
 ICLR 2022, [[Paper](https://openreview.net/pdf?id=DhzIU48OcZh)] [[GitHub](https://github.com/salesforce/FactLM)]\
 19 Apr 2022
+
+**How Can We Know What Language Models Know?** \
+*Zhengbao Jiang, Frank F. Xu, Jun Araki, Graham Neubig* \
+TACL 2020, [[Paper](https://aclanthology.org/2020.tacl-1.28.pdf)] [[GitHub](https://github.com/jzbjyb/LPAQA)]\
+3 May 2020
