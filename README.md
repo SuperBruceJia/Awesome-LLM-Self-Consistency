@@ -76,7 +76,10 @@ ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
 7 Mar 2023
 
 ## Semantics
-
+**Accurate, yet inconsistent? Consistency Analysis on Language Understanding Models** \
+*Myeongjun Jang, Deuk Sin Kwon, Thomas Lukasiewicz* \
+arXiv 2021, [[Paper](https://arxiv.org/pdf/2108.06665.pdf)]\
+15 Aug 2021
 
 ## Logicality
 
