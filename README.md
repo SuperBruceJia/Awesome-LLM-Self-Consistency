@@ -81,6 +81,11 @@ ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
 7 Mar 2023
 
 ## Semantics
+**Prompt Consistency for Zero-Shot Task Generalization** \
+*Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig* \
+EMNLP Findings 2022, [[Paper](https://aclanthology.org/2022.findings-emnlp.192.pdf)] [[GitHub](https://github.com/violet-zct/swarm-distillation-zero-shot)]\
+27 Dec 2022
+
 **Accurate, Yet Inconsistent? Consistency Analysis on Language Understanding Models** \
 *Myeongjun Jang, Deuk Sin Kwon, Thomas Lukasiewicz* \
 arXiv 2021, [[Paper](https://arxiv.org/pdf/2108.06665.pdf)]\
