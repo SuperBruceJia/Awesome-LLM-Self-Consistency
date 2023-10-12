@@ -65,6 +65,11 @@ TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](http
 
 # Papers
 ## Reasoning
+**Large Language Models Can Be Easily Distracted by Irrelevant Context** \
+*Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* \
+ICML 2023, [[Paper](https://proceedings.mlr.press/v202/shi23a/shi23a.pdf)] [[GitHub](https://github.com/google-research-datasets/GSM-IC)]\
+6 Jun 2023
+
 **Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs** \
 *Pranjal Aggarwal, Aman Madaan, Yiming Yang, Mausam* \
 arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.11860.pdf)] [[Website](http://sample-step-by-step.info/)] [[GitHub](https://github.com/Pranjal2041/AdaptiveConsistency)]\
