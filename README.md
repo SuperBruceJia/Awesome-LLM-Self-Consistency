@@ -60,7 +60,7 @@ ACL 2022, [[Paper](https://aclanthology.org/2022.findings-acl.240.pdf)] [[GitHub
 
 **ParaRel:metal:: Measuring and Improving Consistency in Pretrained Language Models** \
 *Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard Hovy, Hinrich Schütze, Yoav Goldberg* \
-TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)]\
+TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)] [[Presentation](https://yanaiela.github.io/presentations/consistency.pdf)]\
 29 May 2021
 
 # Papers
