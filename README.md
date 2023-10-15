@@ -7,6 +7,8 @@ Awesome-LLM-Self-Consistency: A Curated List of Self-consistency in Large Langua
 
 This repository, called **Self-Consistency-LLMs**, contains a collection of resources and papers on **Self-Consistency** in **Large Language Models**. 
 
+"*I can't see a path that guarantees safety. We're entering a period of great uncertainty where we're dealing with things we've never dealt with before, and we can't afford to get it wrong with these things because they might take over.*" - Geoffrey Hinton, Professor, Department of Computer Science, University of Toronto, October 5, 2023
+
 *Welcome to share your papers, thoughts, and ideas by [submitting an issue](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency/issues/new)!* 
 
 ## Contents
