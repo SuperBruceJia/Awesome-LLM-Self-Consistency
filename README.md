@@ -85,8 +85,13 @@ ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
 ## Semantics
 **Semantic Consistency for Assuring Reliability of Large Language Models** \
 *Harsh Raj, Vipul Gupta, Domenic Rosati, Subhabrata Majumdar* \
-ML Safety Workshop, NeurIPS 2022, [[Paper](https://openreview.net/pdf?id=SgbpddeEV-C)] [[Extended Paper](https://arxiv.org/pdf/2308.09138.pdf)]\
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2308.09138.pdf)]\
 17 Aug 2023
+
+**Measuring Reliability of Large Language Models through Semantic Consistency** \
+*Harsh Raj, Domenic Rosati, Subhabrata Majumdar* \
+ML Safety Workshop, NeurIPS 2022, [[Paper](https://openreview.net/pdf?id=SgbpddeEV-C)]\
+28 Nov 2022
 
 **Prompt Consistency for Zero-Shot Task Generalization** \
 *Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig* \
