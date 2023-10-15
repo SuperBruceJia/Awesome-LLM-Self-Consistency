@@ -57,7 +57,7 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
 ## Factual Consistency
 **mParaRel: Factual Consistency of Multilingual Pretrained Language Models** \
 *Constanza Fierro, Anders Søgaard* \
-ACL 2022, [[Paper](https://aclanthology.org/2022.findings-acl.240.pdf)] [[GitHub](https://github.com/coastalcph/mpararel)]\
+Findings of ACL 2022, [[Paper](https://aclanthology.org/2022.findings-acl.240.pdf)] [[GitHub](https://github.com/coastalcph/mpararel)]\
 22 Mar 2022
 
 **ParaRel:metal:: Measuring and Improving Consistency in Pretrained Language Models** \
