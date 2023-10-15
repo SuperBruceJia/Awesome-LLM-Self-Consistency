@@ -90,7 +90,7 @@ arXiv 2023, [[Paper](https://arxiv.org/pdf/2308.09138.pdf)]\
 
 **Measuring Reliability of Large Language Models through Semantic Consistency** \
 *Harsh Raj, Domenic Rosati, Subhabrata Majumdar* \
-ML Safety Workshop, NeurIPS 2022, [[Paper](https://openreview.net/pdf?id=SgbpddeEV-C)]\
+ML Safety Workshop, NeurIPS 2022, [[Paper](https://arxiv.org/pdf/2211.05853.pdf)]\
 28 Nov 2022
 
 **Prompt Consistency for Zero-Shot Task Generalization** \
