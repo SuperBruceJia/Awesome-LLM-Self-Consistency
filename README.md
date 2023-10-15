@@ -57,7 +57,7 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
 ## Factual Consistency
 **mParaRel: Factual Consistency of Multilingual Pretrained Language Models** \
 *Constanza Fierro, Anders Søgaard* \
-Findings of ACL 2022, [[Paper](https://aclanthology.org/2022.findings-acl.240.pdf)] [[GitHub](https://github.com/coastalcph/mpararel)]\
+Findings of ACL: ACL 2022, [[Paper](https://aclanthology.org/2022.findings-acl.240.pdf)] [[GitHub](https://github.com/coastalcph/mpararel)]\
 22 Mar 2022
 
 **ParaRel:metal:: Measuring and Improving Consistency in Pretrained Language Models** \
@@ -90,7 +90,7 @@ ML Safety Workshop, NeurIPS 2022, [[Paper](https://openreview.net/pdf?id=Sgbpdde
 
 **Prompt Consistency for Zero-Shot Task Generalization** \
 *Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig* \
-EMNLP Findings 2022, [[Paper](https://aclanthology.org/2022.findings-emnlp.192.pdf)] [[GitHub](https://github.com/violet-zct/swarm-distillation-zero-shot)]\
+Findings of ACL: EMNLP 2022, [[Paper](https://aclanthology.org/2022.findings-emnlp.192.pdf)] [[GitHub](https://github.com/violet-zct/swarm-distillation-zero-shot)]\
 27 Dec 2022
 
 **Accurate, Yet Inconsistent? Consistency Analysis on Language Understanding Models** \
