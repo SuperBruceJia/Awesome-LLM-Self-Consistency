@@ -103,6 +103,11 @@ Findings of ACL: EMNLP 2022, [[Paper](https://aclanthology.org/2022.findings-emn
 arXiv 2021, [[Paper](https://arxiv.org/pdf/2108.06665.pdf)]\
 15 Aug 2021
 
+**Evolution of Semantic Similarity—A Survey** \
+*Dhivya Chandrasekaran, Vijay Mago* \
+ACM Computing Survey 2021, [[Paper](https://dl.acm.org/doi/abs/10.1145/3440755)]\
+30 Jan 2021
+
 ## Logicality
 **Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference** \
 *Eric Mitchell, Joseph Noh, Siyan Li, Will Armstrong, Ananth Agarwal, Patrick Liu, Chelsea Finn, Christopher Manning* \
