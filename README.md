@@ -104,7 +104,10 @@ arXiv 2021, [[Paper](https://arxiv.org/pdf/2108.06665.pdf)]\
 15 Aug 2021
 
 ## Logicality
-
+**Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference** \
+*Eric Mitchell, Joseph Noh, Siyan Li, Will Armstrong, Ananth Agarwal, Patrick Liu, Chelsea Finn, Christopher Manning* \
+EMNLP 2022, [[Paper](https://aclanthology.org/2022.emnlp-main.115.pdf)] [[Website](https://ericmitchell.ai/emnlp-2022-concord/)] [[GitHub](https://github.com/eric-mitchell/concord)]\
+21 Nov 2022
 
 ## Factuality
 **P-Adapters: Robustly Extracting Factual Information from Language Models with Diverse Prompts** \
