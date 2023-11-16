@@ -115,6 +115,11 @@ EMNLP 2022, [[Paper](https://aclanthology.org/2022.emnlp-main.115.pdf)] [[Websit
 21 Nov 2022
 
 ## Factuality
+**RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought** \
+*Tianci Xue, Ziqi Wang, Zhenhailong Wang, Chi Han, Pengfei Yu, Heng Ji* \
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2305.11499.pdf)] \
+2 Oct 2023
+
 **P-Adapters: Robustly Extracting Factual Information from Language Models with Diverse Prompts** \
 *Benjamin Newman, Prafulla Kumar Choubey, Nazneen Rajani* \
 ICLR 2022, [[Paper](https://openreview.net/pdf?id=DhzIU48OcZh)] [[GitHub](https://github.com/salesforce/FactLM)]\
