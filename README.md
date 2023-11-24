@@ -69,6 +69,12 @@ ACL 2017, [[Paper](https://aclanthology.org/P17-1015.pdf)] [[GitHub](https://git
 NAACL 2021, [[Paper](https://aclanthology.org/2021.naacl-main.168.pdf)] [[GitHub](https://github.com/arkilpatel/SVAMP)] \
 6 July 2021
 
+**ASDiv**: \
+**A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers** \
+*Shen-yun Miao, Chao-Chun Liang, Keh-Yih Su* \
+ACL 2020, [[Paper](https://aclanthology.org/2020.acl-main.92.pdf)] [[GitHub](https://github.com/chaochun/nlu-asdiv-dataset)] \
+5 July 2020
+
 ## Commonsense Reasoning
 **CSQA**: \
 **CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge** \
