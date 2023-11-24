@@ -14,6 +14,8 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
 ## Contents
 - [Presentations](#Presentations)
 - [Benchmarks](#Benchmarks)
+  - [Arithmetic Reasoning](#Arithmetic-Reasoning)
+  - [Commonsense Reasoning](#Commonsense-Reasoning)
   - [Semantic Consistency](#Semantic-Consistency)
   - [Logical Consistency](#Logical-Consistency)
   - [Factual Consistency](#Factual-Consistency)
@@ -30,12 +32,58 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
 Sept 2023
 
 # Benchmarks
+## Arithmetic Reasoning
+**GSM8K**: \
+**Training Verifiers to Solve Math Word Problems** \
+*Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman* \
+arXiv 2021, [[Paper](https://github.com/openai/grade-school-math)] [[GitHub](https://github.com/openai/grade-school-math)] [[Blog Post]](https://openai.com/research/solving-math-word-problems)\
+18 Nov 2021
+
+**SingleEq**: \
+**Parsing Algebraic Word Problems into Equations** \
+*Rik Koncel-Kedziorski, Hannaneh Hajishirzi, Ashish Sabharwal, Oren Etzioni, Siena Dumas Ang* \
+TACL 2015, [[Paper](https://aclanthology.org/Q15-1042.pdf)] [[Gitlab](https://gitlab.cs.washington.edu/ALGES/TACL2015)] \
+24 June 2015
+
+**AddSub**: \
+**Learning to Solve Arithmetic Word Problems with Verb Categorization** \
+*Mohammad Javad Hosseini, Hannaneh Hajishirzi, Oren Etzioni, Nate Kushman* \
+EMNLP 2014, [[Paper](https://aclanthology.org/D14-1058.pdf)] [[Gitlab](https://www.cs.washington.edu/nlp/arithmetic)] \
+25 Oct 2014
+
+**MultiArith**: \
+**Solving General Arithmetic Word Problems** \
+*Subhro Roy, Dan Roth* \
+EMNLP 2015, [[Paper](https://aclanthology.org/D15-1202.pdf)] [[Webpage](https://cogcomp.seas.upenn.edu/page/resource_view/98)] \
+17 Sept 2015
+
+**AQUA-RAT**: \
+**Program Induction by Rationale Generation : Learning to Solve and Explain Algebraic Word Problems** \
+*Wang Ling, Dani Yogatama, Chris Dyer, Phil Blunsom* \
+ACL 2017, [[Paper](https://aclanthology.org/P17-1015.pdf)] [[GitHub](https://github.com/google-deepmind/AQuA)] \
+30 July 2017
+
+**SVAMP**: \
+**Are NLP Models really able to Solve Simple Math Word Problems?** \
+*Arkil Patel, Satwik Bhattamishra, Navin Goyal* \
+NAACL 2021, [[Paper](https://aclanthology.org/2021.naacl-main.168.pdf)] [[GitHub](https://github.com/arkilpatel/SVAMP)] \
+6 July 2021
+
+## Commonsense Reasoning
+**CSQA**: \
+**CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge** \
+*Alon Talmor, Jonathan Herzig, Nicholas Lourie, Jonathan Berant* \
+NAACL 2019, [[Paper](https://arxiv.org/pdf/1811.00937.pdf)] [[Webpage](https://www.tau-nlp.sites.tau.ac.il/commonsenseqa)] \
+15 Mar 2019
+
 ## Semantic Consistency
+**BECEL**: \
 **BECEL: Benchmark for Consistency Evaluation of Language Models** \
 *Myeongjun Jang, Deuk Sin Kwon, Thomas Lukasiewicz* \
 COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub](https://github.com/MJ-Jang/BECEL)]\
 12 Oct 2022
 
+**Paraphrased SQuAD Questions**: \
 **Improving the Robustness of Question Answering Systems to Question Paraphrasing** \
 *Wee Chung Gan, Hwee Tou Ng* \
 ACL 2019, [[Paper](https://aclanthology.org/P19-1610.pdf)] [[GitHub](https://github.com/nusnlp/paraphrasing-squad)]\
@@ -43,6 +91,7 @@ ACL 2019, [[Paper](https://aclanthology.org/P19-1610.pdf)] [[GitHub](https://git
 
 ## Logical Consistency
 ### Negational, Symmetric, Transitive, and Additive Consistency
+**BECEL**: \
 **BECEL: Benchmark for Consistency Evaluation of Language Models** \
 *Myeongjun Jang, Deuk Sin Kwon, Thomas Lukasiewicz* \
 COLING 2022, [[Paper](https://aclanthology.org/2022.coling-1.324.pdf)] [[GitHub](https://github.com/MJ-Jang/BECEL)]\
@@ -55,11 +104,13 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.14279.pdf)]\
 2 Oct 2023
 
 ## Factual Consistency
+**mParaRel**: \
 **mParaRel: Factual Consistency of Multilingual Pretrained Language Models** \
 *Constanza Fierro, Anders Søgaard* \
 Findings of ACL: ACL 2022, [[Paper](https://aclanthology.org/2022.findings-acl.240.pdf)] [[GitHub](https://github.com/coastalcph/mpararel)]\
 22 Mar 2022
 
+**ParaRel**: \
 **ParaRel:metal:: Measuring and Improving Consistency in Pretrained Language Models** \
 *Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard Hovy, Hinrich Schütze, Yoav Goldberg* \
 TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](https://github.com/yanaiela/pararel)] [[Presentation](https://yanaiela.github.io/presentations/consistency.pdf)]\
