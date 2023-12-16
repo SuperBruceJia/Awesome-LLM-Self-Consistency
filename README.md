@@ -24,6 +24,7 @@ This repository, called **Self-Consistency-LLMs**, contains a collection of reso
   - [Semantics](#Semantics)
   - [Logicality](#Logicality)
   - [Factuality](#Factuality)
+- [Citation](#Citation)
 
 # Presentations 
 **Teach Language Models to Reason** \
@@ -196,3 +197,25 @@ ICLR 2022, [[Paper](https://openreview.net/pdf?id=DhzIU48OcZh)] [[GitHub](https:
 *Zhengbao Jiang, Frank F. Xu, Jun Araki, Graham Neubig* \
 TACL 2020, [[Paper](https://aclanthology.org/2020.tacl-1.28.pdf)] [[GitHub](https://github.com/jzbjyb/LPAQA)]\
 3 May 2020
+
+# Citation
+If you find our list useful, please consider citing our repo and toolkit in your publications. We provide a BibTeX entry below.
+```bibtex
+@misc{JiaAwesomeLLM23,
+      author = {Jia, Shuyue},
+      title = {Awesome-{LLM}-Self-Consistency},
+      year = {2023},
+      publisher = {GitHub},
+      journal = {GitHub Repository},
+      howpublished = {\url{https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency}},
+}
+
+@misc{JiaPromptCraft23,
+      author = {Jia, Shuyue},
+      title = {{PromptCraft}: A Prompt Perturbation Toolkit},
+      year = {2023},
+      publisher = {GitHub},
+      journal = {GitHub Repository},
+      howpublished = {\url{https://github.com/SuperBruceJia/promptcraft}},
+}
+```
