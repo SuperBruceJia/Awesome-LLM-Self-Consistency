@@ -129,7 +129,6 @@ TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](http
 arXiv 2023, [[Paper](https://openreview.net/pdf?id=N8N0hgNDRt)] [[GitHub](https://github.com/meta-math/MetaMath)]\
 9 Oct 2023
 
-## Reasoning
 **Large Language Models are Better Reasoners with Self-Verification** \
 *Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, Shizhu He, Shengping Liu, Bin Sun, Kang Liu, Jun Zhao* \
 EMNLP 2023 Findings, [[Paper](https://arxiv.org/pdf/2212.09561.pdf)] [[GitHub](https://github.com/WENGSYX/Self-Verification)]\
