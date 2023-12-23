@@ -125,6 +125,11 @@ TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](http
 
 # Papers
 ## Reasoning
+**Query and Response Augmentation Cannot Help Out-of-domain Math Reasoning Generalization** \
+*Chengpeng Li, Zheng Yuan, Hongyi Yuan, Guanting Dong, Keming Lu, Jiancan Wu, Chuanqi Tan, Xiang Wang, Chang Zhou* \
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2310.05506.pdf)] [[GitHub](https://github.com/OFA-Sys/gsm8k-ScRel)]\
+1 Nov 2023
+
 **MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models** \
 *Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu* \
 arXiv 2023, [[Paper](https://openreview.net/pdf?id=N8N0hgNDRt)] [[GitHub](https://github.com/meta-math/MetaMath)]\
