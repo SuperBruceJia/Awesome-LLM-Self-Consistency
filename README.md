@@ -140,6 +140,11 @@ arXiv 2023, [[Paper](https://openreview.net/pdf?id=N8N0hgNDRt)] [[GitHub](https:
 EMNLP 2023 Findings, [[Paper](https://arxiv.org/pdf/2212.09561.pdf)] [[GitHub](https://github.com/WENGSYX/Self-Verification)]\
 19 Oct 2023
 
+**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models** \
+*Zheng Yuan, Hongyi Yuan, Chengpeng Li, Guanting Dong, Keming Lu, Chuanqi Tan, Chang Zhou, Jingren Zhou* \
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2308.01825.pdf)] [[GitHub](https://github.com/OFA-Sys/gsm8k-ScRel)]\
+3 Aug 2023
+
 **Large Language Models Can Be Easily Distracted by Irrelevant Context** \
 *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou* \
 ICML 2023, [[Paper](https://proceedings.mlr.press/v202/shi23a/shi23a.pdf)] [[GitHub](https://github.com/google-research-datasets/GSM-IC)]\
