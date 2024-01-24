@@ -125,6 +125,11 @@ TACL 2021, [[Paper](https://aclanthology.org/2021.tacl-1.60.pdf)] [[GitHub](http
 
 # Papers
 ## Reasoning
+**A Survey of Reasoning with Foundation Models** \
+*Jiankai Sun, Chuanyang Zheng, Enze Xie, Zhengying Liu, Ruihang Chu, Jianing Qiu, Jiaqi Xu, Mingyu Ding, Hongyang Li, Mengzhe Geng, Yue Wu, Wenhai Wang, Junsong Chen, Zhangyue Yin, Xiaozhe Ren, Jie Fu, Junxian He, Wu Yuan, Qi Liu, Xihui Liu, Yu Li, Hao Dong, Yu Cheng, Ming Zhang, Pheng Ann Heng, Jifeng Dai, Ping Luo, Jingdong Wang, Ji-Rong Wen, Xipeng Qiu, Yike Guo, Hui Xiong, Qun Liu, Zhenguo Li* \
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2312.11562.pdf)] [[GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)]\
+26 Dec 2023
+
 **Query and Response Augmentation Cannot Help Out-of-domain Math Reasoning Generalization** \
 *Chengpeng Li, Zheng Yuan, Hongyi Yuan, Guanting Dong, Keming Lu, Jiancan Wu, Chuanqi Tan, Xiang Wang, Chang Zhou* \
 arXiv 2023, [[Paper](https://arxiv.org/pdf/2310.05506.pdf)] [[GitHub](https://github.com/OFA-Sys/gsm8k-ScRel)]\
