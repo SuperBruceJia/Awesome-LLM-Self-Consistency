@@ -150,6 +150,11 @@ arXiv 2023, [[Paper](https://openreview.net/pdf?id=N8N0hgNDRt)] [[GitHub](https:
 EMNLP 2023 Findings, [[Paper](https://arxiv.org/pdf/2212.09561.pdf)] [[GitHub](https://github.com/WENGSYX/Self-Verification)]\
 19 Oct 2023
 
+**Reasoning with Language Model Prompting: A Survey** \
+*Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen* \
+ACL 2023, [[Paper](https://aclanthology.org/2023.acl-long.294.pdf)] [[GitHub](https://github.com/zjunlp/Prompt4ReasoningPapers)]\
+18 Sep 2023
+
 **Scaling Relationship on Learning Mathematical Reasoning with Large Language Models** \
 *Zheng Yuan, Hongyi Yuan, Chengpeng Li, Guanting Dong, Keming Lu, Chuanqi Tan, Chang Zhou, Jingren Zhou* \
 arXiv 2023, [[Paper](https://arxiv.org/pdf/2308.01825.pdf)] [[GitHub](https://github.com/OFA-Sys/gsm8k-ScRel)]\
