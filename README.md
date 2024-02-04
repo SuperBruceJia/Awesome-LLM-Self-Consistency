@@ -30,13 +30,13 @@ This repository, called **Self-Consistency of LLMs**, contains a collection of r
 # Presentations 
 **Teach Language Models to Reason** \
 *Denny Zhou, Google DeepMind* \
-Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://dennyzhou.github.io/LLMs-Reason-2023-Harvard-Yale.pdf)] \
+[[Link](https://dennyzhou.github.io/LLMs-Reason-2023-Harvard-Yale.pdf)] \
 Sept 2023
 
 # Books 
 **Foundation Models for Natural Language Processing - Pre-trained Language Models Integrating Media** \
 *Gerhard Paaß, Sven Giesselbach* \
-[[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)] \
+Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)] \
 16 Feb 2023
 
 # Benchmarks
