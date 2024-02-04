@@ -30,7 +30,7 @@ This repository, called **Self-Consistency of LLMs**, contains a collection of r
 # Presentations 
 **Teach Language Models to Reason** \
 *Denny Zhou, Google DeepMind* \
-[[Link](https://dennyzhou.github.io/LLMs-Reason-2023-Harvard-Yale.pdf)] \
+Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://dennyzhou.github.io/LLMs-Reason-2023-Harvard-Yale.pdf)] \
 Sept 2023
 
 # Books 
