@@ -13,6 +13,7 @@ This repository, called **Self-Consistency of LLMs**, contains a collection of r
 
 ## Contents
 - [Presentations](#Presentations)
+- [Books](#Books)
 - [Benchmarks](#Benchmarks)
   - [Arithmetic Reasoning](#Arithmetic-Reasoning)
   - [Commonsense Reasoning](#Commonsense-Reasoning)
@@ -31,6 +32,12 @@ This repository, called **Self-Consistency of LLMs**, contains a collection of r
 *Denny Zhou, Google DeepMind* \
 [[Link](https://dennyzhou.github.io/LLMs-Reason-2023-Harvard-Yale.pdf)] \
 Sept 2023
+
+# Books 
+**Foundation Models for Natural Language Processing - Pre-trained Language Models Integrating Media** \
+*Gerhard Paaß, Sven Giesselbach* \
+[[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)] \
+16 Feb 2023
 
 # Benchmarks
 ## Arithmetic Reasoning
