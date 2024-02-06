@@ -25,6 +25,7 @@ This repository, called **Self-Consistency of LLMs**, contains a collection of r
   - [Semantics](#Semantics)
   - [Logicality](#Logicality)
   - [Factuality](#Factuality)
+  - [Medicine and Healthcare](#Medicine-and-Healthcare)
 - [Citation](#Citation)
 
 # Presentations 
@@ -234,6 +235,12 @@ ICLR 2022, [[Paper](https://openreview.net/pdf?id=DhzIU48OcZh)] [[GitHub](https:
 *Zhengbao Jiang, Frank F. Xu, Jun Araki, Graham Neubig* \
 TACL 2020, [[Paper](https://aclanthology.org/2020.tacl-1.28.pdf)] [[GitHub](https://github.com/jzbjyb/LPAQA)]\
 3 May 2020
+
+## Medicine and Healthcare
+**BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks** \
+*Kai Zhang, Jun Yu, Eashan Adhikarla, Rong Zhou, Zhiling Yan, Yixin Liu, Zhengliang Liu, Lifang He, Brian Davison, Xiang Li, Hui Ren, Sunyang Fu, James Zou, Wei Liu, Jing Huang, Chen Chen, Yuyin Zhou, Tianming Liu, Xun Chen, Yong Chen, Quanzheng Li, Hongfang Liu, Lichao Sun* \
+arXiv 2024, [[Paper](https://arxiv.org/pdf/2305.17100.pdf)] [[GitHub](https://github.com/taokz/BiomedGPT)]\
+9 Jan 2024
 
 # Citation
 If you find our list useful, please consider citing our repo and toolkit in your publications. We provide a BibTeX entry below.
