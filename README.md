@@ -242,6 +242,11 @@ TACL 2020, [[Paper](https://aclanthology.org/2020.tacl-1.28.pdf)] [[GitHub](http
 arXiv 2024, [[Paper](https://arxiv.org/pdf/2305.17100.pdf)] [[GitHub](https://github.com/taokz/BiomedGPT)]\
 9 Jan 2024
 
+**Towards Generalist Biomedical AI** \
+*Tao Tu, Shekoofeh Azizi, Danny Driess, Mike Schaekermann, Mohamed Amin, Pi-Chuan Chang, Andrew Carroll, Chuck Lau, Ryutaro Tanno, Ira Ktena, Basil Mustafa, Aakanksha Chowdhery, Yun Liu, Simon Kornblith, David Fleet, Philip Mansfield, Sushant Prakash, Renee Wong, Sunny Virmani, Christopher Semturs, S Sara Mahdavi, Bradley Green, Ewa Dominowska, Blaise Aguera y Arcas, Joelle Barral, Dale Webster, Greg S. Corrado, Yossi Matias, Karan Singhal, Pete Florence, Alan Karthikesalingam, Vivek Natarajan* \
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2307.14334.pdf)] [[GitHub](https://github.com/kyegomez/Med-PaLM)]\
+26 Jul 2023
+
 # Citation
 If you find our list useful, please consider citing our repo and toolkit in your publications. We provide a BibTeX entry below.
 ```bibtex
