@@ -252,6 +252,11 @@ arXiv 2023, [[Paper](https://arxiv.org/pdf/2307.14334.pdf)] [[GitHub](https://gi
 arXiv 2023, [[Paper](https://arxiv.org/pdf/2306.00890.pdf)] [[GitHub](https://github.com/microsoft/LLaVA-Med)]\
 1 Jun 2023
 
+**Towards Expert-Level Medical Question Answering with Large Language Models** \
+*Karan Singhal, Tao Tu, Juraj Gottweis, Rory Sayres, Ellery Wulczyn, Le Hou, Kevin Clark, Stephen Pfohl, Heather Cole-Lewis, Darlene Neal, Mike Schaekermann, Amy Wang, Mohamed Amin, Sami Lachgar, Philip Mansfield, Sushant Prakash, Bradley Green, Ewa Dominowska, Blaise Aguera y Arcas, Nenad Tomasev, Yun Liu, Renee Wong, Christopher Semturs, S. Sara Mahdavi, Joelle Barral, Dale Webster, Greg S. Corrado, Yossi Matias, Shekoofeh Azizi, Alan Karthikesalingam, Vivek Natarajan* \
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2305.09617.pdf)]\
+16 May 2023
+
 # Citation
 If you find our list useful, please consider citing our repo and toolkit in your publications. We provide a BibTeX entry below.
 ```bibtex
