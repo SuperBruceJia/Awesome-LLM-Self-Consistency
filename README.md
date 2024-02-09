@@ -259,7 +259,7 @@ arXiv 2023, [[Paper](https://arxiv.org/pdf/2305.09617.pdf)]\
 
 **Large Language Models Encode Clinical Knowledge** \
 *Karan Singhal, Shekoofeh Azizi, Tao Tu, S. Sara Mahdavi, Jason Wei, Hyung Won Chung, Nathan Scales, Ajay Tanwani, Heather Cole-Lewis, Stephen Pfohl, Perry Payne, Martin Seneviratne, Paul Gamble, Chris Kelly, Nathaneal Scharli, Aakanksha Chowdhery, Philip Mansfield, Blaise Aguera y Arcas, Dale Webster, Greg S. Corrado, Yossi Matias, Katherine Chou, Juraj Gottweis, Nenad Tomasev, Yun Liu, Alvin Rajkomar, Joelle Barral, Christopher Semturs, Alan Karthikesalingam, Vivek Natarajan* \
-Nature, [[Paper](https://arxiv.org/pdf/2212.13138.pdf)]\
+Nature, [[Paper](https://www.nature.com/articles/s41586-023-06291-2)]\
 26 Dec 2022
 
 # Citation
