@@ -247,6 +247,11 @@ arXiv 2024, [[Paper](https://arxiv.org/pdf/2305.17100.pdf)] [[GitHub](https://gi
 arXiv 2023, [[Paper](https://arxiv.org/pdf/2307.14334.pdf)] [[GitHub](https://github.com/kyegomez/Med-PaLM)]\
 26 Jul 2023
 
+**LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day** \
+*Chunyuan Li, Cliff Wong, Sheng Zhang, Naoto Usuyama, Haotian Liu, Jianwei Yang, Tristan Naumann, Hoifung Poon, Jianfeng Gao* \
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2306.00890.pdf)] [[GitHub](https://github.com/microsoft/LLaVA-Med)]\
+1 Jun 2023
+
 # Citation
 If you find our list useful, please consider citing our repo and toolkit in your publications. We provide a BibTeX entry below.
 ```bibtex
