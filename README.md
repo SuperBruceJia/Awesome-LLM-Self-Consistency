@@ -193,6 +193,11 @@ arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.11860.pdf)] [[Website](ht
 ICLR 2023, [[Paper](https://openreview.net/pdf?id=1PL1NIMMrw)]\
 7 Mar 2023
 
+**Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** \
+*Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou* \
+NeurIPS 2022, [[Paper](https://arxiv.org/pdf/2201.11903.pdf)]\
+28 Jan 2022
+
 ## Semantics
 **Semantic Consistency for Assuring Reliability of Large Language Models** \
 *Harsh Raj, Vipul Gupta, Domenic Rosati, Subhabrata Majumdar* \
