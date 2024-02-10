@@ -178,6 +178,11 @@ ICML 2023, [[Paper](https://proceedings.mlr.press/v202/shi23a/shi23a.pdf)] [[Git
 Findings of ACL 2023, [[Paper](https://aclanthology.org/2023.findings-acl.67.pdf)] [[GitHub](https://github.com/jeffhj/LM-reasoning)]\
 26 May 2023
 
+**Self-Refine: Iterative Refinement with Self-Feedback** \
+*Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank Gupta, Bodhisattwa Prasad Majumder, Katherine Hermann, Sean Welleck, Amir Yazdanbakhsh, Peter Clark* \
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2303.17651.pdf)] [[Website](https://selfrefine.info/)] [[GitHub](https://github.com/madaan/self-refine)] [[Demo](https://self-refine-webgen.herokuapp.com/)]\
+25 May 2023
+
 **Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs** \
 *Pranjal Aggarwal, Aman Madaan, Yiming Yang, Mausam* \
 arXiv 2023, [[Paper](https://browse.arxiv.org/pdf/2305.11860.pdf)] [[Website](http://sample-step-by-step.info/)] [[GitHub](https://github.com/Pranjal2041/AdaptiveConsistency)]\
