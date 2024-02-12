@@ -26,7 +26,6 @@ This repository, called **Self-Consistency of LLMs**, contains a collection of r
   - [Logicality](#Logicality)
   - [Factuality](#Factuality)
   - [Medicine and Healthcare](#Medicine-and-Healthcare)
-- [Citation](#Citation)
 
 # Presentations 
 **Teach Language Models to Reason** \
@@ -281,34 +280,3 @@ arXiv 2023, [[Paper](https://arxiv.org/pdf/2305.09617.pdf)]\
 *Karan Singhal, Shekoofeh Azizi, Tao Tu, S. Sara Mahdavi, Jason Wei, Hyung Won Chung, Nathan Scales, Ajay Tanwani, Heather Cole-Lewis, Stephen Pfohl, Perry Payne, Martin Seneviratne, Paul Gamble, Chris Kelly, Nathaneal Scharli, Aakanksha Chowdhery, Philip Mansfield, Blaise Aguera y Arcas, Dale Webster, Greg S. Corrado, Yossi Matias, Katherine Chou, Juraj Gottweis, Nenad Tomasev, Yun Liu, Alvin Rajkomar, Joelle Barral, Christopher Semturs, Alan Karthikesalingam, Vivek Natarajan* \
 Nature, [[Paper](https://www.nature.com/articles/s41586-023-06291-2)]\
 26 Dec 2022
-
-# Citation
-If you find our list useful, please consider citing our repo and toolkit in your publications. We provide a BibTeX entry below.
-```bibtex
-@misc{JiaAwesomeLLM23,
-      author = {Jia, Shuyue},
-      title = {Awesome {LLM} Self-Consistency},
-      year = {2023},
-      publisher = {GitHub},
-      journal = {GitHub Repository},
-      howpublished = {\url{https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency}},
-}
-
-@misc{JiaPromptCraft23,
-      author = {Jia, Shuyue},
-      title = {{PromptCraft}: A Prompt Perturbation Toolkit},
-      year = {2023},
-      publisher = {GitHub},
-      journal = {GitHub Repository},
-      howpublished = {\url{https://github.com/SuperBruceJia/promptcraft}},
-}
-
-@misc{JiaAwesomeSTS23,
-      author = {Jia, Shuyue},
-      title = {Awesome Semantic Textual Similarity},
-      year = {2023},
-      publisher = {GitHub},
-      journal = {GitHub Repository},
-      howpublished = {\url{https://github.com/SuperBruceJia/Awesome-Semantic-Textual-Similarity}},
-}
-```
