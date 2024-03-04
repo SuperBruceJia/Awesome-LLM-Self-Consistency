@@ -42,6 +42,12 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 
 # Benchmarks
 ## Arithmetic Reasoning
+**GSM8K-Consistency**: \
+**Consistency of Arithmetic Reasoning on GSM8K Benchmark** \
+*Shuyue Jia* \
+Hugging Face 2023, [[Hugging Face](https://huggingface.co/datasets/shuyuej/GSM8K-Consistency)] [[GitHub](https://github.com/SuperBruceJia/GSM8K-Consistency)]\
+01 Dec 2023
+
 **GSM8K**: \
 **Training Verifiers to Solve Math Word Problems** \
 *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman* \
