@@ -26,6 +26,7 @@ This repository, called **Self-Consistency of LLMs**, contains a collection of r
   - [Logicality](#Logicality)
   - [Factuality](#Factuality)
   - [Medicine and Healthcare](#Medicine-and-Healthcare)
+  - [Multimodal Foundation Models](#Multimodal-Foundation-Models)
 
 # Presentations 
 **Teach Language Models to Reason** \
@@ -280,3 +281,9 @@ arXiv 2023, [[Paper](https://arxiv.org/pdf/2305.09617.pdf)]\
 *Karan Singhal, Shekoofeh Azizi, Tao Tu, S. Sara Mahdavi, Jason Wei, Hyung Won Chung, Nathan Scales, Ajay Tanwani, Heather Cole-Lewis, Stephen Pfohl, Perry Payne, Martin Seneviratne, Paul Gamble, Chris Kelly, Nathaneal Scharli, Aakanksha Chowdhery, Philip Mansfield, Blaise Aguera y Arcas, Dale Webster, Greg S. Corrado, Yossi Matias, Katherine Chou, Juraj Gottweis, Nenad Tomasev, Yun Liu, Alvin Rajkomar, Joelle Barral, Christopher Semturs, Alan Karthikesalingam, Vivek Natarajan* \
 Nature, [[Paper](https://www.nature.com/articles/s41586-023-06291-2)]\
 26 Dec 2022
+
+## Multimodal Foundation Models
+**Multimodal Foundation Models: From Specialists to General-Purpose Assistants** \
+*Chunyuan Li, Zhe Gan, Zhengyuan Yang, Jianwei Yang, Linjie Li, Lijuan Wang, Jianfeng Gao* \
+arXiv 2023, [[Paper](https://arxiv.org/pdf/2309.10020.pdf)] [[Webpage](https://vlp-tutorial.github.io/2023/)]\
+18 Sep 2023
