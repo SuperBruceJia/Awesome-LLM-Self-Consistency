@@ -35,7 +35,12 @@ This repository, called **Self-Consistency of LLMs**, contains a collection of r
 Sept 2023
 
 # Books 
-**Foundation Models for Natural Language Processing - Pre-trained Language Models Integrating Media** \
+**The Path to Artificial General Intelligence: Insights from Adversarial LLM Dialogue** \
+*Edward Y. Chang* \
+SocraSynth.com, [[Link](https://www.amazon.com/dp/1962463303)] \
+March 2024
+
+**Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media** \
 *Gerhard Paaß, Sven Giesselbach* \
 Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)] \
 16 Feb 2023
