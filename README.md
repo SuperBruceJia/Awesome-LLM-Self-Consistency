@@ -252,6 +252,11 @@ EMNLP 2022, [[Paper](https://aclanthology.org/2022.emnlp-main.115.pdf)] [[Websit
 ICLR 2024, [[Paper](https://openreview.net/pdf?id=EmQSOi1X2f)] \
 15 Mar 2024
 
+**SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models** \
+*Potsawee Manakul, Adian Liusie, Mark J. F. Gales* \
+EMNLP 2023, [[Paper](https://aclanthology.org/2023.emnlp-main.557.pdf)] \
+11 Oct 2023
+
 **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought** \
 *Tianci Xue, Ziqi Wang, Zhenhailong Wang, Chi Han, Pengfei Yu, Heng Ji* \
 arXiv 2023, [[Paper](https://arxiv.org/pdf/2305.11499.pdf)] \
