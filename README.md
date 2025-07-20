@@ -247,6 +247,11 @@ EMNLP 2022, [[Paper](https://aclanthology.org/2022.emnlp-main.115.pdf)] [[Websit
 21 Nov 2022
 
 ## Factuality
+**Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation** \
+*Niels Mündler, Jingxuan He, Slobodan Jenko, Martin Vechev* \
+ICLR 2024, [[Paper](https://openreview.net/pdf?id=EmQSOi1X2f)] \
+15 Mar 2024
+
 **RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought** \
 *Tianci Xue, Ziqi Wang, Zhenhailong Wang, Chi Han, Pengfei Yu, Heng Ji* \
 arXiv 2023, [[Paper](https://arxiv.org/pdf/2305.11499.pdf)] \
